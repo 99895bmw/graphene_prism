@@ -8,6 +8,8 @@ Ever spent 20 minutes crafting the 'perfect' AI prompt, only to realize you need
 
 Graphene Prism is a local RAG-powered prompt editor designed for high-precision prompt engineering. Built with **PyQt6**, **LangChain**, and **Ollama**, it leverages local LLMs to transform vague intents into structured, high-fidelity master prompts.
 
+PS: Ignore the basic UI 
+
 ## 🚀 Key Features
 * **Semantic Retrieval:** Uses `mxbai-embed-large` to pull engineering principles from your PDF library.
 * **Interactive UI:** Custom `QTextCursor` logic for tabbing through `[placeholders]`.
