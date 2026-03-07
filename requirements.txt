@@ -1,0 +1,6 @@
+PyQt6 
+langchain 
+langchain-community 
+chromadb 
+pypdf 
+ollama

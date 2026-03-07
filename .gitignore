@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+graphene_prism/
+
+# Project Specific
+graphene_db/
+resources/*
+!resources/.gitkeep
