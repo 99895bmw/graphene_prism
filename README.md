@@ -1,5 +1,5 @@
 # 💎 graphene Prism
-**Rapid prompt generation and prompt editing**
+**Rapid prompt generation and prompt editing...**
 
 Did you ever have to make use of AI to get your work done? and so you detail the work and get it done; but then you need a bit of modification and hit that detailed retyping frustration? you miss the key elements to point out?
 
